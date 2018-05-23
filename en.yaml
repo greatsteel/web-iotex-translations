@@ -1,246 +1,246 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
-charity.donated: Donated
-charity.more-info: More About IoTeX Charity Program
-charity.question: How did I know IoTeX? Why I am interested in it?
-charity.share-message: Share Your Act of Kindness!
-charity.to: To
+charity.donated: Donasi
+charity.more-info: Info Lebih lanjut Tentang Program Amal IoTeX
+charity.question: Bagaimana Saya Tahu Tentang IoTeX? Mengapa Saya Tertarik ?
+charity.share-message: Bagikan Tindakan Kebaikan Anda!
+charity.to: Untuk
 charity.tweet.summary.description: >-
-  We appreciate your Big Heart! Besides the one-time fixed 16,000 points
-  thank-you gift, now we put your good deed on IoTeX website!
+  Kami Menghargai Kebesaran Hati Anda! Disamping itu Satu Waktu Untuk Menetapkan 16.000 Poin
+    Terima Kasih Hadiah, Sekarang Kami Menempatkan Perbuatan Baik Anda di Situs IoTeX
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
-charity.tweet.summary.title: You are on the IoTeX Honor Board!
+charity.tweet.summary.title: Anda Telah Berada di Papan Kehormatan IoTeX
 doraHacks: DoraHacks
-claim.btn: CLAIM YOUR POINTS
-contact.btn: CONTACT US
-contact.desc: IoTeX experts are ready to answer your questions via support@iotex.io
-contact.title: STAY IN TOUCH
-ethFoundation: Ethereum Foundation
-hall-of-fame.badge-section.title: IoTeX 1st Charity Program — ETH Foundation
+claim.btn: KLAIM POINT KAMU
+contact.btn: HUBUNGI KAMI
+contact.desc: Para Pakar IoTeX Siap Untuk Menjawab pertanyaan Anda Melalui support@iotex.io
+contact.title: TETAP BERHUBUNGAN 
+ethFoundation: Fondasi Ethereum
+hall-of-fame.badge-section.title: Program Amal Pertama IoTeX - Fondasi ETH
 hall-of-fame.badge-section.unicorn.desc: >
-  Ethereum has revolutionized the blockchain world for the past four years and
-  made “blockchain” the newest buzzword. As an industry leader, Ethereum has
-  provided <a target="_blank"
+  Ethereum telah merevolusi dunia blockchain selama empat tahun terakhir dan
+   membuat "blockchain" kata kunci terbaru. Sebagai pemimpin industri, Ethereum telah
+   memberikan <a target="_blank"
   href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
-  to fuel researchers and developers to work on various forefronts to support
-  the entire blockchain ecosystem. IoTeX strongly believes that we can move
-  forward the entire industry through rigorous research and collaboration. We
-  need talents and the brightest minds to make a splash in the world. A small
-  yet powerful way for you to help our cause is to donate ETH to the Ethereum
-  Foundation to help fund blockchain research.
+   untuk mendorong para peneliti dan pengembang untuk bekerja di berbagai garis terdepan untuk mendukung
+   seluruh ekosistem blockchain. IoTeX sangat percaya bahwa kita bisa bergerak
+   meneruskan seluruh industri melalui riset dan kolaborasi yang teliti. Kita
+   membutuhkan talenta dan pikiran cerdas untuk membuat percikan di dunia. Kecil
+   namun cara ampuh bagi Anda untuk membantu tujuan kami adalah menyumbangkan ETH ke Fondasi Ethereum
+   untuk membantu mendanai penelitian blockchain.
 
 
-  For participation detail, please join official <a target="_blank"
-  href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
-  messages.
+  Untuk Detail Partisipasi, Tolong Join Grup Telegram Resmi Kami <a target="_blank"
+  href="https://t.me/IoTeXGroup">Telegram Group</a> dan Selalu Memantau Pesan yang berada
+  di Pinned Message Kami.
 
-
-  Check more detail at <a target="_blank"
+  Periksa Detalil Lebih Lanjut di <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
   1st Charity Program Update</a>.
 hall-of-fame.search.label: Search by your hashid or Preferred Display Name
 hall-of-fame.thank-you.message: >
-  Crowdsourcing as a way to fund a specific cause for a charity is not new, but
-  IoTeX is doing it via “smart contracts” and redirecting the cryptocurrency
-  hype to charitable causes. In the next few months, under its Community Reward
-  Program, IoTeX will continue selecting a few charity programs that align with
-  IoTeX’s mission of “Connecting the Physical World, Block by Block” as part of
-  IoTeX’s Community Reward Program.
+  Crowdsourcing sebagai cara untuk mendanai penyebab khusus untuk amal bukanlah hal baru, tetapi
+   IoTeX melakukannya melalui "kontrak pintar" dan mengarahkan ulang cryptocurrency
+   hype ke tujuan amal. Dalam beberapa bulan ke depan, di bawah Penghargaan Komunitasnya
+   Program, IoTeX akan terus memilih beberapa program amal yang sejajar
+   Misi IoTeX tentang "Menghubungkan Dunia Fisik, Blok demi Blok" sebagai bagian dari
+   Program Penghargaan Komunitas IoTeX.
 
 
-  IoTeX believes in growing together with the community and connecting the
-  physical world block by block. It’s a very ambitious goal but it can be
-  achieved with a strong team and supportive community. Together with the
-  community to push the frontier for the development of the blockchain
-  ecosystem, IoTeX truly hopes that the community can understand the original
-  intention and help promote the cause.
-hall-of-fame.title: IoTeX Charity
+
+  IoTeX percaya tumbuh bersama komunitas dan menghubungkan
+   blok dunia fisik dengan blok. Ini adalah tujuan yang sangat ambisius, tetapi itu bisa
+   diraih dengan tim yang kuat dan komunitas yang mendukung. Bersama dengan
+   komunitas untuk mendorong perbatasan untuk pengembangan blockchain
+   ekosistem, IoTeX benar-benar berharap bahwa komunitas dapat memahami yang asli
+   niat dan membantu mempromosikan penyebabnya.
+hall-of-fame.title: Program Amal IoTeX
 home.about.inno.0.desc.keep: >-
-  Support millions of nodes with instant finality and low latency,
-  environment-friendly, designed for IoT
-home.about.inno.0.title.keep: Fast Consensus
+  Mendukung jutaan node dengan finalitas instan dan latensi rendah,
+   ramah lingkungan, dirancang untuk IOT
+home.about.inno.0.title.keep: Konsensus Cepat
 home.about.inno.1.desc.keep: >-
-  Like Plasma, pull states off the root chain to further boost privacy,
-  scalability and interoperability; Innovated cross-chain transferring of value
-  and data
-home.about.inno.1.title.keep: Blockchain in Blockchains
+  Seperti Plasma, tarik negara dari rantai akar untuk lebih meningkatkan privasi,
+   skalabilitas dan interoperabilitas; Inovasi transfer nilai lintas rantai
+   dan data
+home.about.inno.1.title.keep: Blockchain di Blockchains
 home.about.inno.2.desc.keep: >-
-  Maximize privacy with innovative crypto schemes like lightweight stealth
-  address and constant size ring signature
-home.about.inno.2.title.keep: Built-in Privacy-preserving Techniques
-home.about.inno.3.desc.keep: 'Decentralized Autonomous Organization for IoT, code is law for the robot world'
-home.about.inno.3.title.keep: Autonomous Device Coordination
+  Maksimalkan privasi dengan skema crypto inovatif seperti siluman ringan
+   alamat dan tanda tangan cincin ukuran konstan
+home.about.inno.2.title.keep: Teknik pelestarian privasi yang tertanam di dalamnya
+home.about.inno.3.desc.keep: 'Organisasi Otonom Terdesentralisasi untuk IOT, kode adalah hukum untuk dunia robot'
+home.about.inno.3.title.keep: Koordinasi Perangkat Mandiri
 home.about.sol.desc1: >-
-  Despite its rapid evolution, IoT is still far from reaching mass adoption and
-  lacks “killer applications” that would draw new users to the ecosystem due to
-  issues such as low scalability, high operating cost, privacy concerns and lack
-  of functional values.
+  Meskipun evolusi yang cepat, IoT masih jauh dari mencapai adopsi massal dan
+   tidak memiliki "aplikasi pembunuh" yang akan menarik pengguna baru ke ekosistem karena
+   masalah seperti skalabilitas rendah, biaya operasi tinggi, masalah privasi, dan kekurangan
+   nilai fungsional.
 home.about.sol.desc2: >-
-  IoTeX is tackling this problem by introducing token economy into IoT spaces as
-  we strongly believe that crypto incentives as well as the community effort are
-  the two key forces to propel innovations in IoT space. In short, IoTeX is the
-  next generation IoT-oriented blockchain platform with strong scalability,
-  privacy, isolatability and developability for incubating new IoT applications
-  and ecosystems.
-home.decentralized-protocol: A Decentralized Network for Internet of Things
+ IoTeX mengatasi masalah ini dengan memperkenalkan token economy ke dalam ruang IoT sebagai
+   kami sangat percaya bahwa insentif crypto dan juga upaya masyarakat
+   dua kekuatan utama untuk mendorong inovasi dalam ruang IOT. Singkatnya, IoTeX adalah
+   platform blockchain berorientasi IoT generasi berikutnya dengan skalabilitas yang kuat,
+   privasi, keterpencilan dan pengembangan untuk menginkubasi aplikasi IoT baru
+   dan ekosistem.
+home.decentralized-protocol: Jaringan Terdesentralisasi untuk Internet of Things
 home.dustin.desc.keep: >-
-  Ph.D in Data Security at USC. Staff software engineer at Intel. 12 years of
-  expertise in distributed systems, content protection, hardware video
-  acceleration, network video streaming, graphics driver. Cryptography and
-  blockchain enthusiast.
+ Ph.D dalam Keamanan Data di USC. Staf insinyur perangkat lunak di Intel. 12 tahun
+   keahlian dalam sistem terdistribusi, perlindungan konten, video perangkat keras
+   akselerasi, pengaliran video jaringan, driver grafis. Kriptografi dan
+   penggila blockchain.
 home.dustin.name.keep: Dustin Xie
-home.dustin.title.keep: Blockchain Engineer
+home.dustin.title.keep: Teknisi Blockchain
 home.fan.desc.keep: >-
-  Previously served as a Founding Partner of Sequoia Capital China, and a
-  Director of DFJ ePlanet Ventures. Ranked by Forbes as one of leading venture
-  capitalists in its annual China's Midas List.
+  Sebelumnya menjabat sebagai Mitra Pendiri Sequoia Capital China, dan Sebagai
+   Direktur dari DFJ ePlanet Ventures. Diberi peringkat oleh Forbes sebagai salah satu usaha terkemuka
+   kapitalis dalam Daftar Midas China tahunannya.
 home.fan.name.keep: Fan Zhang
-home.fan.title.keep: null
+home.fan.title.keep: Tidak Ada
 home.guang.desc.keep: >-
-  IEEE Fellow. Professor in University of Waterloo, Canada. Top Scientist in
-  cryptography and lightweight cryptography, ad hoc network and Radio Frequency
-  Identification (RFID) security.
+  Fellow IEEE. Profesor di University of Waterloo, Kanada. Ilmuwan Top di
+   kriptografi dan kriptografi ringan, jaringan ad hoc dan Frekuensi Radio
+   Identifikasi (RFID) keamanan.
 home.guang.name.keep: Guang Gong
-home.guang.title.keep: null
+home.guang.title.keep: Tidak Ada
 home.jack.desc.keep: >-
-  Co-Founding Managing Partner of HCM Capital, Foxconn Technology Group.
-  Co-Founder and Executive Director of Chained Finance Ltd., Founder & Executive
-  Director of FnConn, and Board Director of Abra.
+  Mitra Managing Co-Founding HCM Capital, Foxconn Technology Group.
+   Co-Founder dan Direktur Eksekutif Chained Finance Ltd., Pendiri & Eksekutif
+   Direktur FnConn, dan Dewan Direktur Abra.
 home.jack.name.keep: Jack Lee
-home.jack.title.keep: null
+home.jack.title.keep: Tidak Ada
 home.jing.desc.keep: >-
-  Founding partner of Sparkland Capital, focusing on Frontier Tech, lead 40+
-  investments and innovations in blockchain, security and IoT. Board director on
-  numerous companies. Extensive experience in startup, investments and building
-  up ecosystem.
+  Mitra pendiri Sparkland Capital, dengan fokus pada Frontier Tech, memimpin 40+
+   investasi dan inovasi dalam blockchain, keamanan, dan IoT. Direktur dewan pada
+   banyak perusahaan. Pengalaman luas dalam startup, investasi, dan pembangunan
+   ekosistem.
 home.jing.name.keep: Jing Sun
-home.jing.title.keep: Co-founder
+home.jing.title.keep: Pendiri
 home.larry.desc.keep: >-
-  Management consultant at Oliver Wyman, specialized in digital operations. Dual
-  B.S. in Finance & Economics, minor in Visual Arts & Design from MIT.
-  Blockchain and IoT enthusiast.
+  Konsultan manajemen di Oliver Wyman, khusus dalam operasi digital. Ganda
+   B.S. di bidang Finance & Economics, minor dalam Visual Arts & Design dari MIT.
+   Penggemar Blockchain dan IoT.
 home.larry.name.keep: Larry Pang
-home.larry.title.keep: Growth & Community
+home.larry.title.keep: Pertumbuhan & Komunitas
 home.monika.desc.keep: >-
-  Technology communications specialist with deep expertise in cybersecurity,
-  privacy, networking and emerging technologies.
+  Pakar komunikasi teknologi dengan keahlian mendalam dalam cybersecurity,
+   privasi, jaringan, dan teknologi baru.
 home.monika.name.keep: Monika Hathaway
-home.monika.title.keep: Communication
+home.monika.title.keep: Komunikasi
 home.nick.desc.keep: >-
-  Master in Computer Science at USC and Bachelor at University of Wisconsin-
-  Madison. Web development, blockchain and machine learning enthusiast.
+  Menguasai Ilmu Komputer di USC dan Sarjana di University of Wisconsin-
+   Madison. Pengembang pengembangan web, blockchain, dan mesin.
 home.nick.name.keep: Nick Chen
-home.nick.title.keep: Full Stack Intern
+home.nick.title.keep: Menguasai Semua Internal
 home.paddy.desc.keep: >-
-  Senior Software Engineer at Microsoft, specialized in distributed systems.
-  Active contributor to open source projects. M.S. Computer Science at Yale
-  University.
+  Senior Software Engineer di Microsoft, khusus dalam sistem terdistribusi.
+   Penyumbang aktif untuk proyek sumber terbuka. NONA. Ilmu Komputer di Yale
+   Universitas.
 home.paddy.name.keep: Paddy Kan
-home.paddy.title.keep: Distributed Systems
-home.powered-by: Powered by a Privacy-Centric Blockchain
+home.paddy.title.keep: Distribusi Sistem
+home.powered-by: Didukung oleh Blockchain Privasi-Centric
 home.qevan.desc.keep: >-
-  Ph.D in Machine Learning and Computer Vision at National University of
-  Singapore. Engineering Manager and Research Scientist at Facebook. Growth
-  Hacker. Startup investor and advisor. 20+ publications / patents.
+  Ph.D dalam Pembelajaran Mesin dan Visi Komputer di Universitas Nasional Indonesia
+   Singapura. Manajer Teknik dan Peneliti Penelitian di Facebook. Pertumbuhan
+   Peretas. Investor dan penasehat startup. 20+ publikasi / paten.
 home.qevan.name.keep: Qevan Guo
-home.qevan.title.keep: Co-founder
+home.qevan.title.keep: Pendiri
 home.raullen.desc.keep: >-
-  Ph.D and Research Scientist in Cryptography at UWaterloo. Head of Crypto R&D
-  at Uber, Security Engineer at Google.  8+ years of experience in cryptography
-  and blockchain.
+  Ph.D dan Peneliti Penelitian dalam Kriptografi di UWaterloo. Kepala Crypto R & D
+   di Uber, Security Engineer di Google. 8+ tahun pengalaman dalam kriptografi
+   dan blockchain.
 home.raullen.name.keep: Raullen Chai
-home.raullen.title.keep: Co-founder
+home.raullen.title.keep: Pendiri
 home.section.advisors: IoTeX.Advisors
-home.section.arch: IoTeX.Architecture
-home.section.innovations: IoTeX.Innovations
-home.section.investors: IoTeX.Investors
-home.section.partners: IoTeX.StrategicPartners
-home.section.roadmap: IoTeX.Roadmap
-home.section.team: IoTeX.Team
-home.section.teamfrom: IoTeX.Team.Background
-home.section.useceses: IoTeX.UseCases
+home.section.arch: Arsitektur.IoTeX
+home.section.innovations: Inovasi.IoTeX
+home.section.investors: Investor.IoTeX
+home.section.partners: StrategiMitra.IoTeX
+home.section.roadmap: PetaJalan.IoTeX
+home.section.team: Tim.IoTeX
+home.section.teamfrom: Latarbelakang.Tim.IoTeX
+home.section.useceses: GunakanKasus.IoTeX
 home.site.description: >-
-  A Decentralized Network for Internet of Things (IoT), Powered by a
-  Auto-Scalable, Extensible, Private-Centric Blockchain. Connecting the Physical
-  World, Block by Block.
-home.slogan: Connecting the Physical World Block by Block
+  Jaringan Terdesentralisasi untuk Internet of Things (IoT), Didukung oleh a
+   Auto-Scalable, Extensible, Private-Centric Blockchain. Menghubungkan Fisik
+   Dunia, Blok demi Blok.
+home.slogan: Menghubungkan Blok Fisik Dunia Dengan Blok
 home.vedaad.desc.keep: >-
-  Student at UC Berkeley studying EECS and Applied Math; blockchain  researcher
-  on the cryptoeconomics team at Blockchain @ Berkeley
+  Mahasiswa di UC Berkeley belajar EECS dan Matematika Terapan; peneliti blockchain
+   di tim cryptoeconomics di Blockchain @ Berkeley
 home.vedaad.name.keep: Vedaad Shakib
-home.vedaad.title.keep: Blockchain Engineering Intern
+home.vedaad.title.keep: Teknisi Internal Blockchain
 home.vincent.desc.keep: >-
-  Computer Science major at the University of Waterloo. Security and blockchain
-  enthusiast.
+  Jurusan Ilmu Komputer di University of Waterloo. Keamanan dan blockchain
+   penggemar.
 home.vincent.name.keep: Vincent Vuong
-home.vincent.title.keep: Software Engineer Intern
+home.vincent.title.keep: Teknisi Internal Software
 home.xinxin.desc.keep: >-
-  Ph.D in Cryptography at UWaterloo. Sr. Research Engineer at Bosch Research. 14
-  years of research and industry experience in information security and crypto.
-  40+ publications / patents.
+  Ph.D dalam Kriptografi di UWaterloo. Sr. Research Engineer di Bosch Research. 14
+   tahun penelitian dan pengalaman industri dalam keamanan informasi dan crypto.
+   40+ publikasi / paten.
 home.xinxin.name.keep: Xinxin Fan
-home.xinxin.title.keep: Head of Cryptography
+home.xinxin.title.keep: Kepala Dalam Kriptografi
 home.zhefeng.desc.keep: >-
-  Master in Computer Science at University of California San Diego and Bachelor
-  in Mathematics and Computer Science at University of Wisconsin-Madison.
-  Blockchain technology, machine learning, and Internet of Things enthusiast.
+  Magister Ilmu Komputer di University of California San Diego dan Sarjana
+   dalam Matematika dan Ilmu Komputer di University of Wisconsin-Madison.
+   Teknologi Blockchain, pembelajaran mesin, dan penggemar Internet of Things.
 home.zhefeng.name.keep: Zhefeng Li
-home.zhefeng.title.keep: Blockchain Engineer
+home.zhefeng.title.keep: Teknisi Blockchain
 stonevan.twitter: >-
-  I just got 100 free points from IoTeX by celebrating their first Testnet
-  Preview release. @iotex_io Come and get yours!
-subscribe.btn: SUBSCRIBE
-subscribe.desc: With our latest progress and events.
-subscribe.title: STAY UPDATED
-testnet-preview.home-title: Testnet Preview (StoneVan) will be released on
-testnet-preview.released-event-title: Our Testnet Preview Has Been Released!
-testnet-preview.released-title: Testnet Preview Has Been Released On
+  Saya baru saja mendapat 100 poin gratis dari IoTeX dengan merayakan Testnet pertama mereka
+   Pratinjau rilis. @iotex_io Datang dan ambil Poin milikmu!
+subscribe.btn: BERLANGGANAN
+subscribe.desc: Dengan kemajuan dan acara terbaru kami.
+subscribe.title: TETAP UPDATE
+testnet-preview.home-title: Testnet Preview (StoneVan) akan dirilis pada
+testnet-preview.released-event-title: Preview Testnet Kami Telah Dirilis!
+testnet-preview.released-title: Testnet Preview Telah Dirilis di
 topbar.blog: BLOG
-topbar.careers: CAREERS
-topbar.charity: CHARITY
+topbar.careers: KARIR
+topbar.charity: AMAL
 topbar.faq: FAQ
-topbar.home: HOME
-topbar.white-paper: WHITE PAPER
-whitepaper.button.next: NEXT
-whitepaper.button.previous: PREVIOUS
-auth.telegram.invalid_hash: Cannot login with Telegram. Please contact our community manager.
-auth.enter_phone_number: Enter phone number
-auth.phone_number: Phone Number
-auth.next: Next
-auth.login: Login
-auth.or_continue_with_phone_number: Or Continue with Phone Number
-auth.invalid_request: Input is invalid
-auth.invalid_phone_number: Phone number is invalid
-auth.cannot_send_sms: Cannot send SMS to this phone number
-auth.unsupported_country_code: Country code is unsupported
-auth.invalid_v_code: Verification code is invalid
-auth.expired_v_code: Verification code is expired
-auth.verification_code: Verification Code
+topbar.home: RUMAH
+topbar.white-paper: KERTAS PUTIH
+whitepaper.button.next: SELANJUTNYA
+whitepaper.button.previous: SEBELUMNYA
+auth.telegram.invalid_hash: Tidak dapat masuk dengan Telegram. Silakan hubungi manajer komunitas kami.
+auth.enter_phone_number: Masukkan Nomor Telepon
+auth.phone_number: Nomor Telepon
+auth.next: Selanjutnya
+auth.login: Masuk
+auth.or_continue_with_phone_number: Atau Lanjut Dengan Menggunakan Nomor Telepon
+auth.invalid_request: Masukkan Tidak Valid
+auth.invalid_phone_number: Nomor telepon tidak valid
+auth.cannot_send_sms: Tidak dapat mengirim SMS ke nomor telepon ini
+auth.unsupported_country_code: Kode negara tidak didukung
+auth.invalid_v_code: Kode verifikasi tidak valid
+auth.expired_v_code: Kode verifikasi telah kedaluwarsa
+auth.verification_code: Kode verifikasi
 auth.enter_verification_code: >-
-  Please enter the 6-digit verification code sent to your phone
+  Silakan masukkan kode verifikasi 6 digit yang dikirim ke telepon Anda
   <strong>%s</strong>
-geetest.loading_captcha: Loading captcha...
-geetest.incorrect_captcha: Please verify you are not a robot.
-next: next
-phone_number: Phone Number
-enter_phone_number: Enter Phone Number
+geetest.loading_captcha: Memuat captcha ...
+geetest.incorrect_captcha: Harap verifikasi bahwa Anda bukan robot.
+next: Selanjutnya
+phone_number: Nomor Telepon
+enter_phone_number: Masukkan Nomor Telepon
 telegram_account_id: Telegram
 wechat_account_id: WeChat
-phone: Phone
-receive_reward_points: RECEIVE
-send_reward_points: SEND
-redeem_reward_points: REDEEM
-reward_points_history: HISTORY
-title_receive_points: ENTER CODE TO CLAIM MORE POINTS
-bar_receive_points: CLAIM
-bar_success_receive_points: CLAIM
-msg_receive_points: msg_receive_points
-title_send_points: ENTER THE AMOUNT YOU WANT TO SEND
-bar_send_points: GENERATE CODE
-bar_success_send_points: GENERATE
-title_redeem_points: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
-bar_redeem_points: SUBMIT APPLICATION
-barSuccessMsg: SUBMIT APPLICATION
-eth_address: ETH Address
+phone: Telepon
+receive_reward_points: MENERIMA
+send_reward_points: MENGIRIM
+redeem_reward_points: MENEBUS
+reward_points_history: RIWAYAT
+title_receive_points: MASUKKAN KODE UNTUK MENERIMA POIN LEBIH
+bar_receive_points: KLAIM
+bar_success_receive_points: KLAIM
+msg_receive_points: msg_menerima_poin
+title_send_points: MASUKKAN JUMLAH YANG INGIN ANDA KIRIM
+bar_send_points: BUAT KODE
+bar_success_send_points: BUAT
+title_redeem_points: MASUKKAN JUMLAH YANG POIN YANG INGIN ANDA TEMBUS
+bar_redeem_points: MENGAJUKAN PERMOHONAN
+barSuccessMsg: MENGAJUKAN PERMOHONAN
+eth_address: ALAMAT ETH
